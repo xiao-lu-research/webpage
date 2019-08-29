@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Xiao Lu is a Ph.D. candidate in Political Science at the [Graduate School of Economics and Social Sciences (GESS)](https://gess.uni-mannheim.de/ "Graduate School of Economics and Social Sciences (GESS)") at the [University of Mannheim](https://www.uni-mannheim.de/ "University of Mannheim"). He also works as a doctoral reseacher at [Collaborative Research Center (SFB) 884](https://reforms.uni-mannheim.de/ "SFB 884") [Project C1](https://reforms.uni-mannheim.de/projects/project_group_c/project_c1/ "Project C1"), and served as an instructor at the [Department of Political Science](http://lspol2.sowi.uni-mannheim.de/english/Homepage/ ).
+Xiao Lu is a Ph.D. candidate in Political Science at the [Graduate School of Economics and Social Sciences (GESS)](https://gess.uni-mannheim.de/ "Graduate School of Economics and Social Sciences (GESS)") at the [University of Mannheim](https://www.uni-mannheim.de/ "University of Mannheim"), who also works as a doctoral reseacher at [Collaborative Research Center (SFB) 884](https://reforms.uni-mannheim.de/ "SFB 884") [Project C1](https://reforms.uni-mannheim.de/projects/project_group_c/project_c1/ "Project C1").
 
 ### Research interest:
 
-Dynamic party competition, legislative politics, integration of formal modeling with empirical analysis, Bayesian analysis, robust discrete choice models
+Political methodology, party politics, legislative politics, European politics, political economy
 
 
 ### Education:
@@ -28,6 +28,6 @@ Peking University
 
 
 ### Publications:
-* Lu, Xiao (*forthcoming*): [Discrete Choice Data with Unobserved Heterogeneity: A Conditional Binary Quantile Model](http://dx.doi.org/10.1017/pan.2019.29 "Article"). **Political Analysis**. [[replication]](https://doi.org/10.7910/DVN/1WZCEA "replication materials").
+* Lu, Xiao (*published online*): [Discrete Choice Data with Unobserved Heterogeneity: A Conditional Binary Quantile Model](http://dx.doi.org/10.1017/pan.2019.29 "Article"). **Political Analysis**. [[replication]](https://doi.org/10.7910/DVN/1WZCEA "replication materials").
 
 
