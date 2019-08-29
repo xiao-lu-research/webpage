@@ -28,6 +28,6 @@ Peking University
 
 
 ### Publications:
-* Lu, Xiao (*forthcoming*): Discrete Choice Data with Unobserved Heterogeneity: A Conditional Binary Quantile Model. **Political Analysis**. [[preprint]](/files/cbq_PA_Xiao_Lu.pdf "preprint version") [[appendix]](/files/online_appendix_cbq.pdf "appendix") [[replication]](https://doi.org/10.7910/DVN/1WZCEA "replication materials")
+* Lu, Xiao (*forthcoming*): [[Discrete Choice Data with Unobserved Heterogeneity: A Conditional Binary Quantile Model]](http://dx.doi.org/10.1017/pan.2019.29 ""). **Political Analysis**. [[replication]](https://doi.org/10.7910/DVN/1WZCEA "replication materials").
 
 
