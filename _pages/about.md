@@ -28,6 +28,5 @@ Peking University
 
 
 ### Publication:
-* Lu, Xiao (*published online*): [Discrete Choice Data with Unobserved Heterogeneity: A Conditional Binary Quantile Model](http://dx.doi.org/10.1017/pan.2019.29 "Article"). **Political Analysis**. [[replication]](https://doi.org/10.7910/DVN/1WZCEA "replication materials") [[R package]](/files/cbq_demo.html "R package demo")
-
+* Lu, Xiao. (2020). [Discrete Choice Data with Unobserved Heterogeneity: A Conditional Binary Quantile Model](http://dx.doi.org/10.1017/pan.2019.29 "Article"). **Political Analysis**, 28(2), 147-167. [[replication]](https://doi.org/10.7910/DVN/1WZCEA "replication materials") [[R package]](/files/cbq_demo.html "R package demo")
 
