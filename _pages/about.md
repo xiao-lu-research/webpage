@@ -26,6 +26,11 @@ Waseda University
 * LL.B. in International Politics, 2015  
 Peking University  
 
+### Manuscript Referee:
+* American Political Science Review
+* American Journal of Political Science
+* Political Analysis
+* European Union Politics
 
 ### Publication:
 * Lu, Xiao. (2020). [Discrete Choice Data with Unobserved Heterogeneity: A Conditional Binary Quantile Model](http://dx.doi.org/10.1017/pan.2019.29 "Article"). **Political Analysis**, 28(2), 147-167. [[replication]](https://doi.org/10.7910/DVN/1WZCEA "replication materials") [[R package]](/files/cbq_demo.html "R package demo")
