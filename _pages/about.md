@@ -14,18 +14,6 @@ Xiao Lu is a Ph.D. candidate in Political Science at the [Graduate School of Eco
 Political methodology, party politics, legislative politics, European politics, political economy
 
 
-### Education:
-
-* PhD. Candidate, Present  
-Graduate School of Economics and Social Sciences  
-University of Mannheim  
-* M.A. in Political Science, 2017 (with distinction)  
-University of Mannheim  
-* B.A. in International Liberal Studies (Statistics and IR), 2015 (Dean's list)  
-Waseda University  
-* LL.B. in International Politics, 2015  
-Peking University  
-
 ### Manuscript Referee:
 * American Political Science Review
 * American Journal of Political Science
