@@ -25,4 +25,4 @@ Political methodology, party politics, legislative politics, European politics, 
 
    [![Build Status](https://www.r-pkg.org/badges/version/cbq)](https://www.r-pkg.org/badges/version/cbq) [![Build Status](http://cranlogs.r-pkg.org/badges/grand-total/cbq)](http://cranlogs.r-pkg.org/badges/grand-total/cbq) [[cbq: An R Package for Conditional Binary Quantile Models]](/files/cbq_demo.html "R package demo") 
 
-* König, Thomas and Xiao Lu (Forthcoming). Should I Stay or Should I Go? British Voter You Got to Let Me Know! Prime Ministers, Intra-Party Conflict, and Membership Referendums in the British Westminster Model. **Journal of Theoretical Politics**.
+* König, Thomas and Xiao Lu (Forthcoming). [Should I Stay or Should I Go? British Voter You Got to Let Me Know! Prime Ministers, Intra-Party Conflict, and Membership Referendums in the British Westminster Model](https://doi.org/10.1177/0951629820956273 "Article"). **Journal of Theoretical Politics**.
